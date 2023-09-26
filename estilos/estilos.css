@@ -1,0 +1,24 @@
+html{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+header{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+body{
+
+    background: linear-gradient(to bottom, #f4f3f9, #a4a7ae) ;
+}
+
+.imagemperfil {
+    width: 200px;
+    height: 200px; 
+    border-radius: 100px;
+ }
+
+ 
